@@ -2,13 +2,13 @@
  * The Student class holds data about a student.
  * The fields are firstName, lastName, and grade.
  */
-public class Student
+public class student
 {
     private String firstName;
     private String lastName;
     private int gradeLevel;
     
-    public Student(String fName, String lName, int grade)
+    public student(String fName, String lName, int grade)
     {
         firstName = fName;
         lastName = lName;

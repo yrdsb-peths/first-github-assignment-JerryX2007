@@ -1,9 +1,9 @@
-public class Rectangle
+public class rectangle
 {
     private int width;
     private int height;
     
-    public Rectangle(int rectWidth, int rectHeight)
+    public rectangle(int rectWidth, int rectHeight)
     {
         width = rectWidth;
         height = rectHeight;
